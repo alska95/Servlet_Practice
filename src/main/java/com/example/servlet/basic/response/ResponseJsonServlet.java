@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.io.OutputStream;
+
 
 @WebServlet(name = "responseJsonServlet" , urlPatterns = "/response-json")
 public class ResponseJsonServlet extends HttpServlet {
