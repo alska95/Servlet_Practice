@@ -1,11 +1,9 @@
-package com.example.servlet.web.frontcontroller.V4;
+package com.example.servlet.web.frontcontroller.v4;
 
-import com.example.servlet.web.frontcontroller.ModelView;
 import com.example.servlet.web.frontcontroller.MyView;
-import com.example.servlet.web.frontcontroller.V4.controller.MemberFormControllerV4;
-import com.example.servlet.web.frontcontroller.V4.controller.MemberListControllerV4;
-import com.example.servlet.web.frontcontroller.V4.controller.MemberSaveControllerV4;
-
+import com.example.servlet.web.frontcontroller.v4.controller.MemberFormControllerV4;
+import com.example.servlet.web.frontcontroller.v4.controller.MemberListControllerV4;
+import com.example.servlet.web.frontcontroller.v4.controller.MemberSaveControllerV4;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

@@ -1,9 +1,8 @@
-package com.example.servlet.web.frontcontroller.V4.controller;
+package com.example.servlet.web.frontcontroller.v4.controller;
 
 import com.example.servlet.domain.member.Member;
 import com.example.servlet.domain.member.MemberRepository;
-import com.example.servlet.web.frontcontroller.ModelView;
-import com.example.servlet.web.frontcontroller.V4.ControllerV4;
+import com.example.servlet.web.frontcontroller.v4.ControllerV4;
 
 import java.util.Map;
 

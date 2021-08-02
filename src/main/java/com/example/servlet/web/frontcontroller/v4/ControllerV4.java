@@ -1,4 +1,4 @@
-package com.example.servlet.web.frontcontroller.V4;
+package com.example.servlet.web.frontcontroller.v4;
 
 import java.util.Map;
 
