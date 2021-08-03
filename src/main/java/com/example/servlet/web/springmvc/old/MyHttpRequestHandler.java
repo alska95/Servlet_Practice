@@ -2,7 +2,6 @@ package com.example.servlet.web.springmvc.old;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.HttpRequestHandler;
-
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
